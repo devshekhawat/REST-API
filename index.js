@@ -84,14 +84,11 @@ function handleError(res, reason, message, code) {
 		  
 			
 			}).catch(function (err) {
-							//throw err
-													//		res.status(200).json({error:'Image loading error - 404.'});
-
 			});
 			  
 		  }).catch((err) => {
 			
-								res.status(200).json({error:'Image loading error - 404.'});
+			res.status(200).json({error:'Image loading error - 404.'});
 				
 		  })
   
