@@ -7,7 +7,7 @@ This is the entire source code of the REST API with mocha chai testing and Istan
 
 1. Clone the repository 
  ```
-git clone 
+git clone https://github.com/devshekhawat/REST-API.git
 ```
 
 2. Install dependency in the cloned repository
