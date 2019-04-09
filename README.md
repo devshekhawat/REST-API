@@ -3,6 +3,8 @@
 This is the entire source code of the a simple REST API with mocha chai testing and Istanbul coverage.
 
 
+![npm run test](https://i.imgur.com/Z5hKcwO.png)
+
 ## Setup
 
 1. Clone the repository 
