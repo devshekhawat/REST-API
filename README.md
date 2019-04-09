@@ -1,6 +1,6 @@
 # REST API
 
-This is the entire source code of the REST API with mocha chai testing and Istanbul coverage.
+This is the entire source code of the a simple REST API with mocha chai testing and Istanbul coverage.
 
 
 ## Setup
