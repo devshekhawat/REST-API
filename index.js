@@ -53,7 +53,7 @@ app.get("/thumbnail", ensureToken, function (req, res) {
   else {
     jwt.verify(req.token, SECRET, function (err, data) {
       if (err) {
-        res.status(200).json({ error: "Unauthorized access because of token verification failure." });
+        res.status(200).json({ error: "Unauthorized: Invalid token." });
       } else {
 
         const options = {
